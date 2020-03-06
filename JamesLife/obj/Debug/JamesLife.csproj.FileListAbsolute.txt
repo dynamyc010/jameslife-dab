@@ -1,0 +1,11 @@
+D:\Visual Studio Apps\JamesLife\JamesLife\bin\Debug\JamesLife.exe.config
+D:\Visual Studio Apps\JamesLife\JamesLife\bin\Debug\JamesLife.exe
+D:\Visual Studio Apps\JamesLife\JamesLife\bin\Debug\JamesLife.pdb
+D:\Visual Studio Apps\JamesLife\JamesLife\obj\Debug\JamesLife.csprojAssemblyReference.cache
+D:\Visual Studio Apps\JamesLife\JamesLife\obj\Debug\JamesLife.Form1.resources
+D:\Visual Studio Apps\JamesLife\JamesLife\obj\Debug\JamesLife.Properties.Resources.resources
+D:\Visual Studio Apps\JamesLife\JamesLife\obj\Debug\JamesLife.csproj.GenerateResource.cache
+D:\Visual Studio Apps\JamesLife\JamesLife\obj\Debug\JamesLife.csproj.CoreCompileInputs.cache
+D:\Visual Studio Apps\JamesLife\JamesLife\obj\Debug\JamesLife.exe
+D:\Visual Studio Apps\JamesLife\JamesLife\obj\Debug\JamesLife.pdb
+D:\Visual Studio Apps\JamesLife\JamesLife\obj\Debug\JamesLife.dab.resources
